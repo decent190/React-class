@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import search from './assets/search bg.png'
-import micro from './assets/micro.png'
+import micro from './assets/micro1.png'
 import camera from './assets/camera.png'
 
 function App() {
